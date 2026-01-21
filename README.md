@@ -1,2 +1,3 @@
-# .github
-for top page settings, readme.md
+# eR@sers
+
+Robot research and practice working group, Tamagawa University Japan
